@@ -9,7 +9,7 @@ December 4, 1955
 What does "ES6" stand for?
 
 ```
-
+EcmaScript
 ```
 
 What company famously used the phrase "Don't be evil" in their code of conduct?
