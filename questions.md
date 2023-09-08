@@ -29,3 +29,5 @@ Who is the "Turing machine" named after?
 ```
 Turing machine, hypothetical computing device introduced in 1936 by the English mathematician and logician Alan M. Turing. 
 ```
+
+ 
