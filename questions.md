@@ -21,7 +21,7 @@ According to Wikipedia; "Don't be evil" is Google's former motto, and a phrase u
 What English mathematician and writer is often regarded as the first computer programmer?
 
 ```
-
+According to Britannica.com, Ada Lovelace is considered the first computer programmer.
 ```
 
 Who is the "Turing machine" named after?
