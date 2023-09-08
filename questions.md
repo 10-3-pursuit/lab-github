@@ -21,7 +21,7 @@ Google used the phrase in the past but later changed it to the less interesting 
 What English mathematician and writer is often regarded as the first computer programmer?
 
 ```
-
+This would be Ada Lovelace 
 ```
 
 Who is the "Turing machine" named after?
