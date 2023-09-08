@@ -27,5 +27,5 @@ According to Britannica.com, Ada Lovelace is considered the first computer progr
 Who is the "Turing machine" named after?
 
 ```
-
+Alan Turing
 ```
