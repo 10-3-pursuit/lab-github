@@ -3,7 +3,7 @@
 What year did Brendan Eich create JavaScript?
 
 ```
-
+According to w3schools.com, JavaScript was invented by Brendan Eich in 1995.
 ```
 
 What does "ES6" stand for?
