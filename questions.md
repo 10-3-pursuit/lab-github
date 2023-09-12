@@ -17,6 +17,7 @@ What does "ES6" stand for?
 What company famously used the phrase "Don't be evil" in their code of conduct?
 
 ```
+Google is the company that famously used the phrase "Don't be evil" in its corporate code of conduct. This motto was part of Google's early company culture and was prominently featured in its corporate philosophy. 
 
 ```
 
